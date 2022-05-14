@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Iconfinder</string>
+    <string name="paid_logo">Paid Logo</string>
+    <string name="download_img_cont_desc">Download Button</string>
+    <string name="icon_image_cont_dec">Icon</string>
+    <string name="main_activity_logo_content_desc">Icon Finder Logo</string>
+    <string name="search">Search</string>
+</resources>
